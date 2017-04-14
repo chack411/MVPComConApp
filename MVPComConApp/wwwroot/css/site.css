@@ -18,20 +18,23 @@ textarea {
 }
 
 /* Carousel */
-.carousel-caption p {
-    font-size: 20px;
-    line-height: 1.4;
+.carousel-caption {
+    z-index: 10 !important;
 }
 
-/* Make .svg files in the carousel display properly in older browsers */
-.carousel-inner .item img[src$=".svg"] {
-    width: 100%;
-}
-
-/* Hide/rearrange for smaller screens */
-@media screen and (max-width: 767px) {
-    /* Hide captions */
-    .carousel-caption {
-        display: none;
+    .carousel-caption p {
+        font-size: 20px;
+        line-height: 1.4;
     }
+
+@media (min-width: 768px) {
+    .carousel-caption {
+        z-index: 10 !important;
+    }
+}
+
+#message {
+    width: 100%;
+    text-align: center;
+    margin-top: 48px;
 }
