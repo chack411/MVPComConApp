@@ -12,6 +12,7 @@
     <Content Include="wwwroot\css\site.css" />
     <Content Include="wwwroot\css\site.min.css" />
     <Content Include="wwwroot\favicon.ico" />
+    <Content Include="wwwroot\images\0.jpg" />
     <Content Include="wwwroot\images\1.jpg" />
     <Content Include="wwwroot\images\2.jpg" />
     <Content Include="wwwroot\images\3.jpg" />
@@ -19,14 +20,6 @@
     <Content Include="wwwroot\images\5.jpg" />
     <Content Include="wwwroot\images\6.jpg" />
     <Content Include="wwwroot\images\7.jpg" />
-    <Content Include="wwwroot\images\8.jpg" />
-    <Content Include="wwwroot\images\banner1.svg" />
-    <Content Include="wwwroot\images\banner2.svg" />
-    <Content Include="wwwroot\images\banner3.svg" />
-    <Content Include="wwwroot\images\banner4.svg" />
-    <Content Include="wwwroot\images\Buri1.jpg" />
-    <Content Include="wwwroot\images\Buri2.jpg" />
-    <Content Include="wwwroot\images\Buri3.jpg" />
     <Content Include="wwwroot\images\Drew1.jpg" />
     <Content Include="wwwroot\images\Drew2.jpg" />
     <Content Include="wwwroot\images\Drew3.jpg" />
